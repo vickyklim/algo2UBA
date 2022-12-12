@@ -1,0 +1,7 @@
+/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 9 - diccionarios sobre tries/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 9 - diccionarios sobre tries/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 9 - diccionarios sobre tries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 9 - diccionarios sobre tries/cmake-build-debug/CMakeFiles/gtest.dir
+/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 9 - diccionarios sobre tries/cmake-build-debug/CMakeFiles/correrTests.dir
+/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 9 - diccionarios sobre tries/cmake-build-debug/CMakeFiles/gtest_main.dir
+/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 9 - diccionarios sobre tries/cmake-build-debug/CMakeFiles/correrTests_ext.dir

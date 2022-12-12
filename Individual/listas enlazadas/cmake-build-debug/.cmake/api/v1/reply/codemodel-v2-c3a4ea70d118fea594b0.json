@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "taller_listas_enlazadas",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "correrTests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-correrTests-Debug-9c704532930070c875aa.json",
+					"name" : "correrTests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "correrValgrind::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-correrValgrind-Debug-1e292fcb925ec900fcab.json",
+					"name" : "correrValgrind",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gtest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gtest-Debug-dcfab5cb21e795526e7c.json",
+					"name" : "gtest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gtest_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gtest_main-Debug-b97fd59b480fa5d0ef91.json",
+					"name" : "gtest_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug",
+		"source" : "C:/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

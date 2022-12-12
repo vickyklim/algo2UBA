@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution Debian --exec /bin/bash -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 8 - conjuntos sobre ABB/cmake-build-debug' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 8 - conjuntos sobre ABB'; exitcode=$?; sleep 0.001; (exit $exitcode)"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 8 - conjuntos sobre ABB/cmake-build-debug

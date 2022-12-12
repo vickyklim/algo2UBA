@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TP_JuegoDePalabras"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="correrTests">
+				<Option output="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug/correrTests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 correrTests"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="correrTests/fast">
+				<Option output="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug/correrTests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 correrTests/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="correrValgrind">
+				<Option working_dir="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 correrValgrind"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo\ 2/TP2\ -\ esqueleto\ y\ enunciado/entregable_alumnos/esqueleto/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/ConjTrie.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/ConjTrie.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Fachada_Juego.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Fachada_Servidor.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Fachada_Variante.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Juego.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Juego.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Letra.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Letra.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Notificacion.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Notificacion.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Servidor.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Servidor.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Tablero.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Tablero.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Tipos.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Variante.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/Variante.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/auxiliares.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/src/auxiliares.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/gtest-1.8.1/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/gtest-1.8.1/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/juego-empezado-tests.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/juego-grande-tests.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/juego-tests.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/juego-trivial-tests.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/letra-tests.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/notificacion-tests.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/servidor-tests.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/utils/NotificacionesUtils.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/utils/NotificacionesUtils.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/utils/PalabrasComunes.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/utils/PalabrasComunes.h">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/tests/variante-tests.cpp">
+			<Option target="correrTests"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/TP2 - esqueleto y enunciado/entregable_alumnos/esqueleto/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

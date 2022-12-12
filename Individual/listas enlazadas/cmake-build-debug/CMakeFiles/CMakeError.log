@@ -1,0 +1,100 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d2459/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d2459.dir/build.make CMakeFiles/cmTC_d2459.dir/build
+make[1]: Entering directory '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d2459.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_d2459.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.7/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_d2459
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d2459.dir/link.txt --verbose=1
+/usr/bin/cc      -v CMakeFiles/cmTC_d2459.dir/CMakeCCompilerABI.c.o  -o cmTC_d2459 -rdynamic  
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/6/lto-wrapper
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Debian 6.3.0-18+deb9u1' --with-bugurl=file:///usr/share/doc/gcc-6/README.Bugs --enable-languages=c,ada,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-6 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-6-amd64/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-6-amd64 --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-6-amd64 --with-arch-directory=amd64 --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/6/:/usr/lib/gcc/x86_64-linux-gnu/6/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/6/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/6/:/usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/6/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/6/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d2459' '-rdynamic' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/6/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/6/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/6/lto-wrapper -plugin-opt=-fresolution=/tmp/cc83Dtwj.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_d2459 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/6 -L/usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/6/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/6/../../.. CMakeFiles/cmTC_d2459.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d2459' '-rdynamic' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Cannot copy output executable
+  '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_d2459'
+to destination specified by COPY_FILE:
+  '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_C.bin'
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8c767/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8c767.dir/build.make CMakeFiles/cmTC_8c767.dir/build
+make[1]: Entering directory '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8c767.dir/feature_tests.c.o
+/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_8c767.dir/feature_tests.c.o   -c "/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_8c767
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c767.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_8c767.dir/feature_tests.c.o  -o cmTC_8c767 -rdynamic 
+make[1]: Leaving directory '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Cannot copy output executable
+  '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_8c767'
+to destination specified by COPY_FILE:
+  '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/feature_tests.bin'
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_459f3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_459f3.dir/build.make CMakeFiles/cmTC_459f3.dir/build
+make[1]: Entering directory '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_459f3.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++      -o CMakeFiles/cmTC_459f3.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.7/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_459f3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_459f3.dir/link.txt --verbose=1
+/usr/bin/c++       -v CMakeFiles/cmTC_459f3.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_459f3 -rdynamic  
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/6/lto-wrapper
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Debian 6.3.0-18+deb9u1' --with-bugurl=file:///usr/share/doc/gcc-6/README.Bugs --enable-languages=c,ada,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-6 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-libmpx --enable-plugin --enable-default-pie --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-6-amd64/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-6-amd64 --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-6-amd64 --with-arch-directory=amd64 --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 6.3.0 20170516 (Debian 6.3.0-18+deb9u1) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/6/:/usr/lib/gcc/x86_64-linux-gnu/6/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/6/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/6/:/usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/6/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/6/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_459f3' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/6/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/6/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/6/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJo9VV4.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o cmTC_459f3 /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/6/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/6 -L/usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/6/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/6/../../.. CMakeFiles/cmTC_459f3.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/6/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/6/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_459f3' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Cannot copy output executable
+  '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_459f3'
+to destination specified by COPY_FILE:
+  '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/3.7.2/CMakeDetermineCompilerABI_CXX.bin'
+
+
+Detecting CXX [-std=c++14] compiler features failed to compile with the following output:
+Change Dir: /mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_22d66/fast"
+/usr/bin/make -f CMakeFiles/cmTC_22d66.dir/build.make CMakeFiles/cmTC_22d66.dir/build
+make[1]: Entering directory '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_22d66.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_22d66.dir/feature_tests.cxx.o -c "/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_22d66
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_22d66.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_22d66.dir/feature_tests.cxx.o  -o cmTC_22d66 -rdynamic 
+make[1]: Leaving directory '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Cannot copy output executable
+  '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_22d66'
+to destination specified by COPY_FILE:
+  '/mnt/c/Users/Victoria/Documents/Academico/UBA/2022/Algo 2/Labos/labo 5 - listas enlazadas/cmake-build-debug/CMakeFiles/feature_tests.bin'
+
+
